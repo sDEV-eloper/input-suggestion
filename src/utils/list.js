@@ -1,0 +1,15 @@
+export const list = [
+    "html",
+    "C",
+    "Python",
+    "HTML5",
+    "css",
+    "java",
+    "javascript",
+    "aws",
+    "c++",
+    "react",
+    "typescript",
+    "mern",
+    "nodejs",
+  ];
