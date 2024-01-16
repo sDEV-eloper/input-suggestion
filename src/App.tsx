@@ -13,7 +13,7 @@ function App() {
     setInputValue(value);
 
     const filteredList = list.filter((item) =>
-      item.toLowerCase().includes(value)
+      item.toLowerCase().includes(value) && !chips.includes(item)
     );
     setSuggestions(filteredList);
   };
