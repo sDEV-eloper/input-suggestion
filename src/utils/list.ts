@@ -1,4 +1,4 @@
-export const list = [
+export const list: string[] = [
     "html",
     "C",
     "Python",
